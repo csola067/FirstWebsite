@@ -1,0 +1,25 @@
+.title{
+
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+.list {
+
+color: pink;
+font-family: monospace;
+
+}
+
+.animal {
+
+    color:lawngreen;
+
+}
+
+.alert-news {
+
+    color: crimson;
+    font-weight: bold;
+    text-align: center;
+}
